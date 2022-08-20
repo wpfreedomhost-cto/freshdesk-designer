@@ -1,6 +1,6 @@
-## Portal builder
+-=:{(FreshDesk Theme Designer 4.20a)}:=-
 
-Congratulations on creating your first app! Feel free to replace this text with your app's actual description.
+Inspired Digital Solutions has forked this tool and brought it back from the dead, stay tuned for major updates in this codebase!
 
 ### Folder structure explained
 
